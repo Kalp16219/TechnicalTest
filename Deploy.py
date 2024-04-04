@@ -46,8 +46,7 @@ def main():
     # Configuration
     bucket_name = 'mybucket'
     file_key = 'key.csv'
-    db_endpoint = 'your-rds-endpoint'
-    db_name = 'kalptest'
+    db_name = 'my_database'
     db_user = 'admin'
     db_password = 'abcd@123'
     glue_database_name = 'gluedatabase'
